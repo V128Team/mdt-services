@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mdt-services
+Source: https://github.com/v128team/mdt-services
+
+Files: *
+Copyright: Copyright 2019 June Tate-Gans <june@theonelab.com>
+License: Apache-2.0

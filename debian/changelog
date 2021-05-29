@@ -1,0 +1,5 @@
+mdt-services (1) sid; urgency=medium
+
+  * Initial fork from the Coral mdt-services package.
+
+ -- June Tate-Gans <june@theonelab.com>  Mon, 14 Jan 2019 12:01:41 -0800

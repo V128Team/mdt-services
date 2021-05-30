@@ -5,7 +5,7 @@ After=network.target
 [Service]
 Type=simple
 RemainAfterExit=no
-ExecStart=/usr/bin/mdt-keymaster --interface enp2s0
+ExecStart=/usr/bin/mdt-keymaster --interface eth0
 Restart=on-failure
 User=user
 Group=user
